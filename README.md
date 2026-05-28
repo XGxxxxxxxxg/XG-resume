@@ -2,7 +2,7 @@
 
 基于 [Start Bootstrap - Resume](https://github.com/StartBootstrap/startbootstrap-resume) 模板改造的个人简历网站，采用简洁优雅的单页式布局设计，适合作为求职或项目积累展示用途。
 
-查看网址：[www.xinge.cc.cd](www.xinge.cc.cd)
+查看网址：[www.xinge.cc.cd](https://www.xinge.cc.cd)（需国内网络访问）
 
 ## 页面结构
 
